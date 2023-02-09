@@ -1,0 +1,33 @@
+.container{
+    margin-left: 30%;
+    height: 400px;
+    width: fit-content;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+#inputfields{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+#title{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+#submit{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+#result{
+    height: 20%;
+    font-size:xx-large;
+    margin-bottom: 5%;
+}
+body{
+    background-color: blue;
+}
